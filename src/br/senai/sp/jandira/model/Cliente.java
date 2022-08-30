@@ -8,7 +8,8 @@ public class Cliente {
 	public LocalDate dataDeNascimento; 
 	public String genero[] = {"Feminino", "Masculino", "Outros"};
 	public double peso; 
-	public double altura;  
+	public double altura; 
+	public String teste;
 	
 
 	public double getImc() {
